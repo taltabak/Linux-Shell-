@@ -1,0 +1,31 @@
+Home Exercise 2
+CREATED BY :Tal Tabak ,  ID : 203664487 .
+
+Program description:
+In "Home Exercise 2" we have one program that simulate simple Shell of Linux.
+The shell supports all of the commands that are in Home exercise 1 and also supports pipe commands 
+and redirection commands.  
+
+
+Program files: 
+ex2.c - contains main and functions.
+ex2 - run file.
+makefile - to compile the program.
+
+Compile and running: 
+In Visual Studio code
+To compile: Ctrl + shift + b 
+To run: Ctrl + f5 
+
+In Linnux terminal:
+to compile : gcc ex2.c -o ex2
+to run: ./ex2
+
+Input: 
+commands
+pipe commands
+redirection commands
+
+Output:
+output of the known commands, pipe and redirection commands. 
+and sammary at the end.
