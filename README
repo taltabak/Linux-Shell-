@@ -1,15 +1,15 @@
-Home Exercise 2
-CREATED BY :Tal Tabak ,  ID : 203664487 .
 
-Program description:
-In "Home Exercise 2" we have one program that simulate simple Shell of Linux.
-The shell supports all of the commands that are in Home exercise 1 and also supports pipe commands 
+CREATED BY :Tal Tabak.
+
+Description:
+In this program we have one program that simulate simple Shell of Linux.
+The shell supports all of the simple linuk shell commands and also supports pipe commands 
 and redirection commands.  
 
 
 Program files: 
-ex2.c - contains main and functions.
-ex2 - run file.
+shell.c - contains main and functions.
+shell - run file.
 makefile - to compile the program.
 
 Compile and running: 
